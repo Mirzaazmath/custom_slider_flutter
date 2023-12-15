@@ -2,6 +2,32 @@
 
 A new Flutter project.
 
+# Screenshot 1
+
+<img src="https://github.com/Mirzaazmath/custom_slider_flutter/blob/main/assets/output/Screenshot1.png" height="400">
+
+
+
+# Screenshot 2
+
+<img src="https://github.com/Mirzaazmath/custom_slider_flutter/blob/main/assets/output/Screenshot2.png" height="400">
+
+
+
+# Screenshot 3
+
+<img src="https://github.com/Mirzaazmath/custom_slider_flutter/blob/main/assets/output/Screenshot3.png" height="400">
+
+
+
+
+
+# Result
+
+<img src="https://github.com/Mirzaazmath/custom_slider_flutter/blob/main/assets/output/result.gif" height="400">
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
